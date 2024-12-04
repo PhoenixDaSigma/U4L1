@@ -1,0 +1,9 @@
+1. The attributes only need to be accessed by the methods of the class, so they're private to keep the attributes away from the users.
+
+2. the __isEmpty() method should only be used in the pop() and top() methods to check if the stack is empty. If it's not empty, the methods continue as normal.
+
+3. Programmers know how code works, and need informative errors to figure out what went wrong, so writing informative errors for other programmers is necessary.
+
+4. 
+
+5. Unit testing verifies that each part of a program works as intended. Test code is provided by a mysterious anonymous source for this assignment, which tests all of the methods of the class. This is integral to making sure the stack works as intended.
